@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Administration de base de données Oracle",
+    "teacherPhoto": "teacher1.jpg",
+    "coursePhoto": "base_donnees.png"
+  },
+  {
+    "name": "Angular",
+    "teacherPhoto": "teacher2.jpg",
+    "coursePhoto": "angular.png"
+  },
+  {
+    "name": "Grails",
+    "teacherPhoto": "teacher3.jpg",
+    "coursePhoto": "grails.png"
+  },
+  {
+    "name": "Statistique inférentielle",
+    "teacherPhoto": "teacher4.jpg",
+    "coursePhoto": "statistiques.jpg"
+  },
+  {
+    "name": "Devops - Docker",
+    "teacherPhoto": "teacher5.jpg",
+    "coursePhoto": "devops.jpeg"
+  },
+  {
+    "name": "Langage R pour la data",
+    "teacherPhoto": "teacher6.webp",
+    "coursePhoto": "r.png"
+  },
+  {
+    "name": "Gestion de projet",
+    "teacherPhoto": "teacher2.webp",
+    "coursePhoto": "gestion_projet.png"
+  },
+  {
+    "name": "SGBD MySQL",
+    "teacherPhoto": "teacher4.jpg",
+    "coursePhoto": "mysql.png"
+  },
+  {
+    "name": "Big Data avec Mongodb",
+    "teacherPhoto": "teacher7.webp",
+    "coursePhoto": "mongodb.webp"
+  },
+  {
+    "name": "Big Data",
+    "teacherPhoto": "teacher6.webp",
+    "coursePhoto": "big_data.png"
+  },
+  {
+    "name": "Data vizualisation",
+    "teacherPhoto": "teacher7.webp",
+    "coursePhoto": "data_analyst.png"
+  }
+
+]
