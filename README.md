@@ -1,16 +1,16 @@
 ## PROJET ANGULAR: MASTER 2 MBDS
  Nom des participants:
 - YANKINE Aicha 
--DEBY CHERUBIN
+- DEBY CHERUBIN
 
 *************************************************
-1) Présentation du projet 
+### 1) Présentation du projet 
 
 Titre :Conception d'une application pour la gestion des devoirs des étudiants.
 
 Ce projet a pour but de fournir une solution fiable et complète pour la gestion des devoirs étudiants. Il associe une interface utilisateur conviviale à un backend robuste, permettant la création, la modification et la suppression des devoirs. Des fonctionnalités avancées, telles que l'authentification des utilisateurs et la gestion de leurs autorisations, sont également intégrées. Cette approche rend la gestion des devoirs plus efficace et sécurisée, tout en répondant de manière optimale aux attentes des utilisateurs.**
 
-2) Les différentes fonctionnalités
+### 2) Les différentes fonctionnalités
 
 s'authentifier : Le système d'authentification repose sur JSON Web Tokens (JWT), permettant une gestion des utilisateurs avec différents niveaux de permissions (utilisateur et administrateur). L'utilisateur se connecte via un identifiant et un mot de passe pour accéder au Dashboard, où il peut visualiser les cours et ajouter des devoirs. Notez que les autres sections présentes dans le menu latéral sont réservées à l'administrateur, et l'utilisateur n'y a pas accès.**
 
@@ -48,7 +48,7 @@ Adresse e-mail : deby@gmail.com
 
 Mot de passe : 1234
 
-En local :
+## En local :
 
 Récupération du projet depuis Git : Utilisez la commande git clone pour récupérer à la fois le backend et le frontend du projet. Placez ces fichiers dans un dossier de votre choix sur votre système.
 
